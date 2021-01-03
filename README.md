@@ -1,2 +1,2 @@
 # elk
-Supporting Repo for ELK installation Youtube video
+Repo for ELK installation
